@@ -34,4 +34,4 @@ EXPOSE 80
 ENV NAME PygameApp
 
 # Run the application
-CMD ["python", "your_script_name.py"]
+CMD ["python", "flappy_bird.py"]
